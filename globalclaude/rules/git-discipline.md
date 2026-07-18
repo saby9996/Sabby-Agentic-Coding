@@ -1,0 +1,6 @@
+- Conventional commit messages only (feat/fix/chore/refactor/docs/test/perf).
+- NEVER add "Co-Authored-By", "Generated with", or any AI/Claude attribution.
+- Never force-push. Never push to main/master directly on shared repos.
+- Assume no git remote exists until told otherwise; do not attempt push before then.
+- git push and PR creation require explicit approval each time.
+- Match the repo's existing commit style if it differs from the above.

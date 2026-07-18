@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+# installer backups (created at ~/.claude, never here — belt & suspenders)
+*.backup-*
+# local test scratch
+fake-claude-home/
