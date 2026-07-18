@@ -412,7 +412,7 @@ Deny > Ask > Allow. Sensible default for a solo power user:
       "Bash(npm run *)",
       "Bash(git status)", "Bash(git diff *)", "Bash(git log *)",
       "Bash(git add *)", "Bash(git commit *)",
-      "Read(**)", "Edit(**)", "Write(**)"
+      "Read(**)", "Edit(**)"
     ],
     "ask": [
       "Bash(git push *)",
